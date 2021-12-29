@@ -1,0 +1,16 @@
+/**
+ * Colors
+ */
+$text-primary: #fff;
+$text-secondary: #5e5e5e;
+
+$gradient: linear-gradient(90deg, rgba(63,124,238,1) 0%, rgba(35,144,240,1) 25%, rgba(38,165,233,1) 67%, rgba(78,213,233,1) 100%);
+$gradient-backup: rgb(63,124,238);
+
+$border-primary: rgba( 255, 255, 255, 0.18 );
+
+/**
+ * Font
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+$font-primary: 'Lato', sans-serif;
