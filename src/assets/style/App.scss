@@ -200,3 +200,7 @@ body {
     text-indent: 20px;
   }
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
