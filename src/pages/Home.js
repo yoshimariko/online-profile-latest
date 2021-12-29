@@ -33,7 +33,7 @@ const Home = () => {
         <Container>
           <Row>
             <PortfolioItem img={discordThumb} title="Moomin Bot" link="https://github.com/yoshimariko/MoominBot" description="Discord.js, Node.js, API" />
-            <PortfolioItem img={profileThumb} title="Online Profile" link="https://github.com/yoshimariko/MoominBot" description="React.js" />
+            <PortfolioItem img={profileThumb} title="Online Profile" link="https://github.com/yoshimariko/online-profile-latest" description="React.js" />
           </Row>
         </Container>
       </SectionContent>
